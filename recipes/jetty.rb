@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: jetty
-# Recipe:: jetty
+# Recipe:: jetty-test
 #
 #
 
